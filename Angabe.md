@@ -1,7 +1,7 @@
 # GIT Quiz - Angabe
 
 ## Aufgabenstellung
-**Name:** _____________________  
+**Name:** Tobias Payreder  
 
 ### Ziel
 Zeige in diesem Quiz, dass du die Grundlagen von Git verstanden hast.
@@ -36,7 +36,9 @@ Du arbeitest strukturiert mit Branches, führst saubere Commits durch und kannst
 5. **GIT-History analysieren (4 Punkte)**
 Schaue dir nun die komplette Commit-History an. Denn im aktuellen Projekt funktioniert die Navigation nicht korrekt. Finde heraus, in welchem Commit der Fehler eingeführt werde. Beschreibe kurz / gibt die Commit-ID an. Mit welchem Befehl hast du dies herausgefunden? Wie viele Commits wurden insgesamt in diesem Projekt erstellt?
 
------------------------ 
+ich habs durch 'git log --oneline', anschließend die commitId's durch gegangen mit dem befehl 'git show ----- (id)'
+Korrekte Version bei id: 8be24db117802b8ebe2f24ea2d230426244d5a73 gefunden
+Es gibt nun 10 Commits!
 
 Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: _____________________
 
